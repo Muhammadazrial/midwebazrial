@@ -14,4 +14,7 @@ class submitbiodata extends Controller
     public function create(){
         return view('biodata');
     }
+    public function store1(){
+
+    }
 }
